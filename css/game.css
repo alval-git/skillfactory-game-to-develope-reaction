@@ -1,0 +1,28 @@
+.description-wrapper{
+	display: flex;
+	flex-wrap: wrap;
+}
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  margin: 1px 1px 1px 1px;
+  max-width: 90px;
+  width: 16.6%;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  max-width: 90px;
+  font-size: 24pt;
+  text-align: center;
+}
+.miss {
+  background-color: red;
+}
+@media (max-width: 230px){
+	.header-text h1{
+		font-size: 24.5px;
+	}
+	.
+}
